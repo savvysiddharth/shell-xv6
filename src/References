@@ -1,0 +1,9 @@
+References:
+
+- xv6 printf function:
+https://stackoverflow.com/questions/49971604/how-does-xv6-write-to-the-terminal
+
+- referred this to read from file:
+https://stackoverflow.com/questions/42061824/unix-in-c-trying-to-write-tail-for-xv6
+
+- Also referred existing "sh.c" file for some ideas
